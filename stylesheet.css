@@ -38,9 +38,8 @@
 
 .profile .profile-image {
     width: 100%;
-    border-radius: 50%;
-    border: 8px solid #1B2631;
- }
+    border-radius: 100%;
+}
 
 .name {
     color: #D6DBDF;
