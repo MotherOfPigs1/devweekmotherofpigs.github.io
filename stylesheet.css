@@ -31,19 +31,18 @@ body {
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-content{
+.left-section-contents{
     padding: 2rem 2rem;
 }
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #1B2631;
+    border-bottom: 2px solid #4B6982;
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
 }
 
 .name {
@@ -131,7 +130,7 @@ body {
 
 
 .right-section-contents {
-    padding: 2rem 2rem;
+    padding: 2rem 3rem;
 }
 
 .right-title {
