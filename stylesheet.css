@@ -43,7 +43,6 @@ body {
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
 }
 
 .name {
@@ -131,7 +130,7 @@ body {
 
 
 .right-section-contents {
-    padding: 2rem 2rem;
+    padding: 2rem 3rem;
 }
 
 .right-title {
